@@ -1,4 +1,3 @@
-# Gaza strip Map
-
+# Gaza Strip Map 
 
  
