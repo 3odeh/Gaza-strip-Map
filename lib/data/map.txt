@@ -1,0 +1,99 @@
+45 53
+Umm_Al_Nnaser 31.558458114755567 34.52237429512929 
+Beit_Lahia 31.55129750628358 34.50921634992939
+Beit_Hanoun 31.5384843189999 34.53677070711904
+Jabalia 31.529398553614378 34.47974131410647
+Gaza 31.50169393644517 34.466844490226364
+Kuba 31.488117597319373 34.46601853448726
+Al_Mughraqa 31.46830172811927 34.417565695645294
+Juhor_ad_Dik 31.455305832357176 34.43882579566618
+Nuseirat 31.449966635665575 34.392909108275255
+Bureij 31.438784402457777 34.402389922739225
+Maghazi 31.42180657226165 34.3854163753163
+Deir_al_Balah 31.417137080547914 34.35092881562591
+Wadi_Salqa 31.39684071107089 34.36526869003712
+Al_Qarara 31.371317319594375 34.33526370661852
+Hara_om_Dhere 31.400359252815726 34.33986528901042
+Khan_Yunis 31.34619809300101 34.30400028482553
+Abasan_Al_Kabira 31.323125658453087 34.344023411394986
+Khuza'a 31.307015434927767 34.360035252910734
+Al_Fukhkhari 31.29522611651488 34.33315170241312
+Al_Nasr 31.289229610278692 34.30048576010121
+Shokat_as_Sufi 31.25087999461174 34.2657674318359
+Rafah 31.295816910835836 34.24010787602628
+Al_Mawasi 31.348420588155264 34.25613740607804
+.s1.Al_Awdeh 31.54821435025116 34.51879685035258
+.s2.Al_Mansheya 31.54683038831466 34.507182098036495
+.s3.Al_Awdeh 31.54302356637770 34.514072307504186
+.s4.Al_Awdeh 31.53844928013732 34.50752511122267
+.s5.Salah_Al_Deen 31.52921805878862 34.51451833209414
+.s6.Salah_Al_Deen 31.53926626864407 34.52314328644928
+.s7.Salah_Al_Deen 31.52230276985371 34.49535408285464
+.s8.Salah_Al_Deen 31.548772683142026 34.52875724179692
+.s9.Salah_Al_Deen 31.46297645209298 34.42346001810663
+.s10.Salah_Al_Deen 31.4434844765023 34.39807103428997
+.s11.Salah_Al_Deen 31.4265591120947 34.37729806488224
+.s12.Salah_Al_Deen 31.4059514283228 34.35556645673905
+.s13.Salah_Al_Deen 31.369309440924823 34.326358135117125
+.s14.Salah_Al_Deen 31.35610394708933 34.32414987287298
+.s15.Salah_Al_Deen 31.34200700252906 34.30916154840178
+.s17.Gamal_Abdel_Nasser 31.342285932301145 34.29464109150166
+.s18.Salah_Al_Deen 31.335995711802134 34.30332506158296
+.s19.Salah_Al_Deen 31.288791569511307 34.30902084889042
+.s20.Salah_Al_Deen 31.2753911167967 34.30225429510748 
+.s21.Salah_Al_Deen 31.26782613641541 34.28259578046389
+.s22.Gush_Katif 31.323168009662414 34.236541623797784
+.s23.Gush_Katif 31.35593412575596 34.2705377385791
+Umm_Al_Nnaser .s1.Al_Awdeh
+Beit_Lahia .s2.Al_Mansheya
+Beit_Hanoun .s6.Salah_Al_Deen
+Jabalia .s7.Salah_Al_Deen
+Gaza .s7.Salah_Al_Deen
+Gaza Kuba
+Gaza .s9.Salah_Al_Deen
+Al_Mughraqa .s9.Salah_Al_Deen
+Juhor_ad_Dik .s9.Salah_Al_Deen
+Nuseirat .s10.Salah_Al_Deen
+Bureij .s10.Salah_Al_Deen
+Maghazi .s11.Salah_Al_Deen
+Deir_al_Balah .s12.Salah_Al_Deen
+Wadi_Salqa .s12.Salah_Al_Deen
+Hara_om_Dhere .s12.Salah_Al_Deen
+Al_Qarara .s13.Salah_Al_Deen
+Khan_Yunis .s15.Salah_Al_Deen
+Khan_Yunis .s17.Gamal_Abdel_Nasser
+Abasan_Al_Kabira .s15.Salah_Al_Deen
+Abasan_Al_Kabira Khuza'a
+Abasan_Al_Kabira Al_Fukhkhari
+Al_Fukhkhari Khuza'a
+Al_Fukhkhari .s19.Salah_Al_Deen
+Al_Nasr .s19.Salah_Al_Deen
+Al_Nasr .s20.Salah_Al_Deen
+Shokat_as_Sufi .s21.Salah_Al_Deen
+Rafah .s21.Salah_Al_Deen
+Rafah .s22.Gush_Katif
+Rafah .s17.Gamal_Abdel_Nasser
+Al_Mawasi .s22.Gush_Katif
+Al_Mawasi .s23.Gush_Katif
+.s1.Al_Awdeh .s8.Salah_Al_Deen
+.s1.Al_Awdeh .s3.Al_Awdeh
+.s3.Al_Awdeh .s2.Al_Mansheya
+.s3.Al_Awdeh .s4.Al_Awdeh
+.s8.Salah_Al_Deen .s6.Salah_Al_Deen
+.s6.Salah_Al_Deen .s5.Salah_Al_Deen
+.s4.Al_Awdeh .s5.Salah_Al_Deen 
+.s5.Salah_Al_Deen .s7.Salah_Al_Deen
+.s9.Salah_Al_Deen .s10.Salah_Al_Deen
+.s10.Salah_Al_Deen .s11.Salah_Al_Deen
+.s11.Salah_Al_Deen .s12.Salah_Al_Deen
+.s12.Salah_Al_Deen .s13.Salah_Al_Deen
+.s13.Salah_Al_Deen .s14.Salah_Al_Deen
+.s13.Salah_Al_Deen .s17.Gamal_Abdel_Nasser
+.s14.Salah_Al_Deen .s15.Salah_Al_Deen
+.s15.Salah_Al_Deen .s18.Salah_Al_Deen
+.s18.Salah_Al_Deen .s17.Gamal_Abdel_Nasser
+.s17.Gamal_Abdel_Nasser .s15.Salah_Al_Deen
+.s18.Salah_Al_Deen .s19.Salah_Al_Deen
+.s19.Salah_Al_Deen .s20.Salah_Al_Deen
+.s20.Salah_Al_Deen .s21.Salah_Al_Deen
+.s23.Gush_Katif .s17.Gamal_Abdel_Nasser
